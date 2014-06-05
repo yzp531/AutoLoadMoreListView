@@ -1,32 +1,33 @@
-/*
+#Android generated
+bin
+gen
 
-!.gitignore
-!.travis.yml
-!CHANGELOG.md
-!README.md
-!LICENSE
-!checkstyle.xml
-!build.gradle
-!settings.gradle
-!gradlew
-!gradlew.bat
+#Eclipse
+.project
+.classpath
+.settings
+.checkstyle
 
-!art/
-!gradle/
+#IntelliJ IDEA
+.idea
+*.iml
+*.ipr
+*.iws
+classes
+gen-external-apklibs
 
-!menudrawer/
-menudrawer/*
-!menudrawer/src/
-!menudrawer/res/
-!menudrawer/AndroidManifest.xml
-!menudrawer/build.gradle
+#Maven
+target
+release.properties
+pom.xml.*
 
-!menudrawer-samples/
-menudrawer-samples/*
-!menudrawer-samples/src/
-!menudrawer-samples/res/
-!menudrawer-samples/libs/
-!menudrawer-samples/AndroidManifest.xml
-!menudrawer-samples/build.gradle
+#Ant
+build.xml
+ant.properties
+local.properties
+proguard.cfg
+proguard-project.txt
 
-.DS_store
+#Other
+.DS_Store
+tmp
