@@ -8,7 +8,7 @@ Usage
 `````
   set the loading more footer view and set the error footer view
   add OnLoadMoreListener to listen the loading status
+  the sample package show how to use, feel free to use
+  
 `````
-the sample package show how to use
 
-feel free to use
