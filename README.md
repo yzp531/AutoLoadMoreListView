@@ -12,7 +12,7 @@ Features
 
 Usage
 -----
-### Like what the ListView to use
+##### Like what the ListView to use
 `````
   set the loading more footer view and set the error footer view
   add OnLoadMoreListener to listen the loading status
